@@ -56,6 +56,19 @@ This app uses the [OpenWeatherMap Current Weather API](https://weatherstack.com/
    ```
 
 ## Screenshots
+- ![Weather App Screenshot](https://example.com/path-to-your-image/screenshot1.png)
+- ![Weather App Screenshot](https://example.com/path-to-your-image/screenshot2.png)
+- ![Weather App Screenshot](https://example.com/path-to-your-image/screenshot3.png)
+- ![Weather App Screenshot](https://example.com/path-to-your-image/screenshot4.png)
+- ![Weather App Screenshot](https://example.com/path-to-your-image/screenshot5.png)
+- ![Weather App Screenshot](https://example.com/path-to-your-image/screenshot6.png)
+- ![Weather App Screenshot](https://example.com/path-to-your-image/screenshot7.png)
+- ![Weather App Screenshot](https://example.com/path-to-your-image/screenshot8.png)
+- ![Weather App Screenshot](https://example.com/path-to-your-image/screenshot9.png)
+- ![Weather App Screenshot](https://example.com/path-to-your-image/screenshot10.png)
+- ![Weather App Screenshot](https://example.com/path-to-your-image/screenshot11.png)
+- ![Weather App Screenshot](https://example.com/path-to-your-image/screenshot12.png)
+- ![Weather App Screenshot](https://example.com/path-to-your-image/screenshot13.png)
 
 
 
