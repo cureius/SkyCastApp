@@ -218,7 +218,7 @@ class _FavouriteCarouselWidgetState extends State<FavouriteCarouselWidget> {
                   ),
                 ],
               ),
-              const SizedBox(height: 2),
+              const Spacer(),
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
