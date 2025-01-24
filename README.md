@@ -56,19 +56,22 @@ This app uses the [OpenWeatherMap Current Weather API](https://weatherstack.com/
    ```
 
 ## Screenshots
-- ![Weather App Screenshot](assets/images/Screenshot_20250122-1.png)
-- ![Weather App Screenshot](assets/images/Screenshot_20250122-2.png)
-- ![Weather App Screenshot](assets/images/Screenshot_20250122-3.png)
-- ![Weather App Screenshot](assets/images/Screenshot_20250122-4.png)
-- ![Weather App Screenshot](assets/images/Screenshot_20250122-5.png)
-- ![Weather App Screenshot](assets/images/Screenshot_20250122-6.png)
-- ![Weather App Screenshot](assets/images/Screenshot_20250122-7.png)
-- ![Weather App Screenshot](assets/images/Screenshot_20250122-8.png)
-- ![Weather App Screenshot](assets/images/Screenshot_20250122-9.png)
-- ![Weather App Screenshot](assets/images/Screenshot_20250122-10.png)
-- ![Weather App Screenshot](assets/images/Screenshot_20250122-11.png)
-- ![Weather App Screenshot](assets/images/Screenshot_20250122-12.png)
-- ![Weather App Screenshot](assets/images/Screenshot_20250122-13.png)
+<p align="center">
+  <img src="assets/images/Screenshot_20250122-2.png" alt="Weather App Screenshot" width="16%" />
+  <img src="assets/images/Screenshot_20250122-3.png" alt="Weather App Screenshot" width="16%" />
+  <img src="assets/images/Screenshot_20250122-4.png" alt="Weather App Screenshot" width="16%"/>
+  <img src="assets/images/Screenshot_20250122-5.png" alt="Weather App Screenshot" width="16%" />
+  <img src="assets/images/Screenshot_20250122-6.png" alt="Weather App Screenshot" width="16%" />
+  <img src="assets/images/Screenshot_20250122-7.png" alt="Weather App Screenshot" width="16%" />
+</p>
+<p align="center">
+  <img src="assets/images/Screenshot_20250122-8.png" alt="Weather App Screenshot" width="16%" />
+  <img src="assets/images/Screenshot_20250122-9.png" alt="Weather App Screenshot" width="16%" />
+  <img src="assets/images/Screenshot_20250122-10.png" alt="Weather App Screenshot" width="16%" />
+  <img src="assets/images/Screenshot_20250122-11.png" alt="Weather App Screenshot" width="16%" />
+  <img src="assets/images/Screenshot_20250122-12.png" alt="Weather App Screenshot" width="16%" />
+  <img src="assets/images/Screenshot_20250122-13.png" alt="Weather App Screenshot" width="16%" />
+</p>
 
 
 
